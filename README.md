@@ -1,6 +1,6 @@
 # Imagen con File Chooser
 
-Explicación De Código Fuente
+###Explicación De Código Fuente
 
 El siguiente programa fue realizado con hilos, la cual muestra un reproductor de imágenes gracias a la herramienta File Chooser, para este ejercicio, el programa fue hecho en el entorno de programación (IDE) de NetBeans, asimismo para su compilación y ejecución se utilizó la interfaz que ya trae incorporado este programa.
 
@@ -39,6 +39,7 @@ Para terminar, se presenta una captura de como se ha diseñado la ventana para q
 
 ![imagen](https://user-images.githubusercontent.com/71055467/111059644-cdd3ce80-845c-11eb-8c2d-3fbc00b2520b.png)
 
+=============
 
 Ejecución del programa 2
 
