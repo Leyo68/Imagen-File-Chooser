@@ -39,9 +39,9 @@ Para terminar, se presenta una captura de como se ha diseñado la ventana para q
 
 ![imagen](https://user-images.githubusercontent.com/71055467/111059644-cdd3ce80-845c-11eb-8c2d-3fbc00b2520b.png)
 
-=============
 
-Ejecución del programa 2
+
+##Ejecución del programa 2 (Underline)
 
 Para comprobar que todo el código fuente explicado anteriormente funciona, se presenta unos Screenshots en donde se podrá visualizar la ejecución y el resultado paso a paso.
 
