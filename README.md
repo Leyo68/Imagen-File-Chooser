@@ -41,7 +41,7 @@ Para terminar, se presenta una captura de como se ha diseñado la ventana para q
 
 
 
-###Ejecución del programa
+### Ejecución del programa
 =============
 
 Para comprobar que todo el código fuente explicado anteriormente funciona, se presenta unos Screenshots en donde se podrá visualizar la ejecución y el resultado paso a paso.
